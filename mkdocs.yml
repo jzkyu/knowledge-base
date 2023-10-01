@@ -1,14 +1,18 @@
-site_name: obsidian-mkdocs template
+site_name: jzkay Knowledge Base
 
 theme:
     name: 'material'
-    palette:
 
+    font:
+        text: Inter
+        code: Roboto Mono
+
+    palette:        
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: pink
-      accent: indigo
+      primary: deep purple
+      accent: deep purple
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
@@ -16,8 +20,8 @@ theme:
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: pink
-      accent: blue
+      primary: deep purple
+      accent: deep purple
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
