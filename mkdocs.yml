@@ -4,11 +4,15 @@ theme:
     name: 'material'
     palette:
 
+    font:
+        text: 'inter'
+        code: 'roboto mono'
+
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: purple
-      accent: indigo
+      primary: deep purple
+      accent: deep purple
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
@@ -16,8 +20,8 @@ theme:
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: purple
-      accent: blue
+      primary: deep purple
+      accent: deep purple
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
