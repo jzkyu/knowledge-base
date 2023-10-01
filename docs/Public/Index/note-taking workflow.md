@@ -19,8 +19,8 @@ In doing so, these notes should strive to be:
 We absorb a lot of information in our day to day lives (in conversation, from reading, lectures, etc.). We need a process that helps us parse all this information and produce useful, high-quality notes from it. 
 
 In [[Zettelkasten]], notes are categorized into fleeting notes and permanent notes. 
-- Fleeting notes can come from anywhere; generally, they would be notes from the day's lecture, chapter readings, Youtube videos, etc.
-- Permanent notes are what this Obsidian Vault will contain; highly digestible content that takes the most useful information from fleeting notes and summarizes them in a succinct and clear way.
+	- Fleeting notes can come from anywhere; generally, they would be notes from the day's lecture, chapter readings, Youtube videos, etc.
+	- Permanent notes are what this Obsidian Vault will contain; highly digestible content that takes the most useful information from fleeting notes and summarizes them in a succinct and clear way.
 
 Based on this, my process for taking notes is as follows:
 

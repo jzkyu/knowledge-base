@@ -1,0 +1,1 @@
+A *command* is a request to perform an operation or run a program. 
