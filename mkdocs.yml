@@ -5,8 +5,8 @@ theme:
     palette:
 
     font:
-        text: 'inter'
-        code: 'roboto mono'
+        text: Inter
+        code: Roboto Mono
 
     # Light mode
     - media: "(prefers-color-scheme: light)"
