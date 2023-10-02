@@ -1,0 +1,1 @@
+An *integer* is a whole number, including 0 and negative whole numbers. 
