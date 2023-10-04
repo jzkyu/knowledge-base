@@ -1,0 +1,1 @@
+A *short circuit* happens when both power and ground are connected. 

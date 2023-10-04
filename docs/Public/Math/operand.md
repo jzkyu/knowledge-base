@@ -1,0 +1,1 @@
+An *operand* is an element that can be manipulated in an [[operation]]. 

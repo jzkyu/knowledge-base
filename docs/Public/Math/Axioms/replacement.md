@@ -1,0 +1,1 @@
+If $m=n$, then $n$ can be substituted for $m$ in any statement without changing the meaning of that statement. 

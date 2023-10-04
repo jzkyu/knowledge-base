@@ -1,0 +1,1 @@
+A *root* is the first node in a [[tree]] [[data structure]]. 

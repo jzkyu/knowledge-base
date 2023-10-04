@@ -1,1 +1,1 @@
-An *integer* is a whole number, including 0 and negative whole numbers. 
+An *integer* is a whole number, including 0 and negative whole numbers. The [[set]] of *integers* is denoted by $\mathbb{Z}$.

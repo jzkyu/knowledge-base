@@ -1,0 +1,1 @@
+*Hexadecimal* is a [[numeral system]] that is [[base]] 16; it uses the following set of symbols for 

@@ -1,0 +1,1 @@
+The *natural* numbers refers to the positive countable ([[discrete]]) numbers, sometimes including $0$. The [[set]] of *natural* numbers is denoted by $\mathbb{N}$.
