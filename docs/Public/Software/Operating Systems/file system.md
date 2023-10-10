@@ -1,0 +1,1 @@
+A *file system* of an [[operating system]] generally has a [[tree]] data structure for [[file]] which branches from the [[root]] to different directories. 
