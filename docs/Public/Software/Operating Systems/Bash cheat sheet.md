@@ -35,3 +35,53 @@ rm <flags> <filePath(s)>
 ```
 - Remove each specified file permanently
 		- Does not remove directories by default
+```bash
+alias <aliasName>='<commandToRun>'
+```
+- Substitutes the alias name with the command to be run
+	- Create shortcuts for tedious commands
+	- Extend the default behavior of commands
+```bash
+alias rm='rm -i'          # confirm to delete file
+alias rm='mv -t -/.tash'  # move file to a trash directory
+alias cp='cp -b'          # make backup of destinationFile
+alias mv='mv -u'          # move only if sourceFile is newer
+alias hello="echo 'cow power'"
+```
+
+```bash
+cat <flags> <file>
+less <flags> <file>
+```
+- Print contents of file to screen; concatenate
+	- `less` outputs a page at a time, to scroll through
+	- Can search through file using the `/<word>` 
+```bash
+head <flags> <file>
+```
+- Shows the first 10 lines of a file
+	- Use `-n <number of lines>` to print certain number of lines from file
+```bash
+tail <flags> <file>
+```
+- Shows the last 10 lines of a file
+```bash
+nano <flags> <file>
+```
+- Opens simple [[CLI]] text editor
+```bash
+vim <flags> <file>
+```
+- Another text editor
+```bash
+man <command>
+man mkdir
+man stdio
+```
+- System reference manuals
+- Contains details of all command behavior and flags
+- Documentation of c libraries
+```bash
+tldr <flags> <command>
+```
+- Lists the typical uses of a command
