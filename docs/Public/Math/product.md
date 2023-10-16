@@ -1,0 +1,1 @@
+A *product* is the result of a multiplication expression.
