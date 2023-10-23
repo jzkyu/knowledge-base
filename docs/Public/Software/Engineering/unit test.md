@@ -1,0 +1,1 @@
+A *unit test* will operate in separate components of the program independently. 

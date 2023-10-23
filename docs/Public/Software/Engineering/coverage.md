@@ -1,0 +1,1 @@
+*Coverage* refers to how much of a program has been run by [[software testing]]. It provides a good approximation for how well the program is running. 
