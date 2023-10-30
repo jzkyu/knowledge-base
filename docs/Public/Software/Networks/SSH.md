@@ -2,6 +2,11 @@
 
 *SSH* is often used to "login" and perform operations on remote computers, but can also be used for transferring data. [^1]
 
+Basic commands:
+```bash
+ssh <user>@pc<#>.cs.ucdavis.edu
+```
+
 You can run a [[command]] on remote machines and [[pipe]] the result:
 ```bash
 ssh noah@pc17.cs.ucdavis.edu ls | grep Downloads

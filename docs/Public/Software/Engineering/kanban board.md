@@ -1,0 +1,1 @@
+A *kanban board* helps track the progress of issues and tasks as they progress in the development process. 

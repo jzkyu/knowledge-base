@@ -1,4 +1,4 @@
-```bash
+;```bash
 pwd
 ``` 
 - Print working directory, outputs the path to the current directory

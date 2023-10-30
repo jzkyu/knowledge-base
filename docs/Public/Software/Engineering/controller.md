@@ -1,0 +1,1 @@
+*Controllers* are modules that handle the application logic for specific routes. They receive incoming [[request]], process the [[data]] if necessary, interact with the [[database]] or other services, and send an appropriate response back to the [[client]]. 
