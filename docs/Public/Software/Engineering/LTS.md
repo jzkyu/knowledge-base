@@ -1,0 +1,1 @@
+*LTS* stands for *Long Time Support*, generally to refer to software that is recommended for most users when developing. 
