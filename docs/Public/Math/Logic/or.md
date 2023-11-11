@@ -15,4 +15,4 @@ Truth table:
 
 Logical circuit:
 
-![[or.png.png]]
+![[or.png]]

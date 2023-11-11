@@ -5,6 +5,6 @@ Some building blocks are:
 - Decision: Represents a question with a finite number of answers
 - Terminal: Represents the beginning or ending of a chart
 
-![[flowchart.png.png]]
+![[flowchart.png]]
 
 Think about what the program should accomplish in terms of inputs and outputs. 

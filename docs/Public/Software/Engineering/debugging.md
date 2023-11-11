@@ -17,6 +17,9 @@ The MINS problem solving model works like this:
 - Solve
 	- After locating the bug, generate a solution and test it
 
+- For production, probably better to disable the debug support and activate all possible optimization support
+	- Reduce size, increase performance
+
 
 
 

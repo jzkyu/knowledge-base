@@ -11,5 +11,5 @@ An *AND* of two or more [[literal]] is called a [[product]].
 | 1 | 0 | 0 |
 | 1 | 1 | 1 |
 
-![[and.png.png]]
+![[and.png]]
 

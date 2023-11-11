@@ -7,6 +7,6 @@ $!n$
 | 0 | 1 |
 | 1 | 0 |
 
-![[not.png.png]]
-
 ![[not.png]]
+
+![[not_transistor.png]]
