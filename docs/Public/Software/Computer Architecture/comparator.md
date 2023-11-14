@@ -1,0 +1,1 @@
+A *comparator* takes in two binary inputs, and checks to see if the bits of each input are the same value at each position. 

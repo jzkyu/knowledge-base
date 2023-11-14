@@ -1,0 +1,1 @@
+A *flip flop* is a [[latch]] that is controlled by a [[clock]]. 

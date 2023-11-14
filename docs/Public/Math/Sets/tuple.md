@@ -1,0 +1,1 @@
+A *tuple* is an ordered [[set]] with $n$ elements. 

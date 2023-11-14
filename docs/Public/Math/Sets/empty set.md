@@ -1,0 +1,1 @@
+The *empty set* is the [[set]] with no elements. There is no such $x\in \emptyset$.

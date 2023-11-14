@@ -1,0 +1,1 @@
+A *cache* is a temporary [[data]] store that holds data so future requests for that data can be serve faster. 
