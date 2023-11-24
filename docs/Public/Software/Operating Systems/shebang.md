@@ -1,0 +1,1 @@
+A *shebang* is the character sequence `#!`, used at the beginning of a file, to tell the [[operating system]] how to interpret an executable file. 

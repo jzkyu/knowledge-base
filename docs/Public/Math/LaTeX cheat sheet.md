@@ -36,6 +36,19 @@
 
 `\implies`: $\implies$
 
+`\land`: $\land$
+
+`\lor`: $\lor$
+
+`\neg`: $\neg$
+
+`\caption[''short'']{''long''}`: Adds captions to a figure
+
+`\begin{figure}[h]`: Starts a figure 
+
+
+
+
 
 
 

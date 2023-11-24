@@ -1,4 +1,6 @@
-;```bash
+https://devhints.io/bash
+
+```bash
 pwd
 ``` 
 - Print working directory, outputs the path to the current directory
@@ -85,3 +87,26 @@ man stdio
 tldr <flags> <command>
 ```
 - Lists the typical uses of a command
+
+```bash
+grep 'word-to-search' <file_name>
+grep 'word-to-search' <file_name1> <file_name2> <file_name3> ...
+grep 'pattern' <file_name>      # searches by regex pattern
+```
+- Searches the given files for lines containing a match to a given pattern list [^1]
+
+```bash
+grep 'Gandalf' list_of_dwarves.txt 
+
+if [[ $? != 0 ]] 
+then 
+	echo "Gandalf is not a dwarf" 
+	exit 1 
+else 
+	echo "Gandalf is a dwarf" 
+	exit 0 
+fi
+```
+- `$?` stores the exit code for the last command
+
+[^1]: https://www.cyberciti.biz/faq/grep-in-bash/
