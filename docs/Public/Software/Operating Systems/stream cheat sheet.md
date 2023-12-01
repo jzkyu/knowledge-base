@@ -59,4 +59,10 @@ sort foo.txt | uniq -c  // Display frequency of each line
 echo 1 | sudo tee /sys/class/leds/input2::scrolllock/brightness
 ```
 
+`sed`: 
+- Stream editor
+- Allows for filtering, substitution, addition, and deletion of text from file
+```
+
+```
 
