@@ -14,6 +14,8 @@
 
 `\subset`: $\subset$
 
+`\subseteq`: $\subseteq$
+
 `\cap`: $\cap$
 
 `\cup`: $\cup$
@@ -46,12 +48,4 @@
 
 `\begin{figure}[h]`: Starts a figure 
 
-
-
-
-
-
-
-
-
-
+`\circ`: $\circ$

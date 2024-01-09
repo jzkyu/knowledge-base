@@ -1,0 +1,2 @@
+An *equivalence relation* is:
+- 

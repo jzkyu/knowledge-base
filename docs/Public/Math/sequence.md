@@ -1,0 +1,1 @@
+A *sequence* is a [[function]] whose [[domain]] is the [[set]] of [[natural numbers]]. 
