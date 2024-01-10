@@ -1,0 +1,1 @@
+An *eulerian cycle* is a [[cycle]] visits each [[edge]] exactly once. 

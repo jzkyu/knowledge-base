@@ -1,0 +1,1 @@
+*Object segmentation* is distinguishing the various elements within an [[image]]. *Segmentation* doesn't use bounding boxes but highlights the contours of the object in the image. 

@@ -1,0 +1,1 @@
+A *vertex* is a point on a [[graph]]. 

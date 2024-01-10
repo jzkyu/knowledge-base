@@ -1,0 +1,1 @@
+An *image* is comprised of an array of pixel values. 

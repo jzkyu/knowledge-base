@@ -1,0 +1,1 @@
+*Object detection* is determining the presence of objects with the help of bounding boxes and categorizing it within the class it belongs to. 

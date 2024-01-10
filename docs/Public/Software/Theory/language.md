@@ -1,0 +1,1 @@
+A *language* in computer science theory is a [[set]] of strings ([[string]]). It can also be thought of as a decision problem. 

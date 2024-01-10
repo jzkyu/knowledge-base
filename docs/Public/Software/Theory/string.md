@@ -1,0 +1,1 @@
+A *string* is a finite [[sequence]] of symbols ([[symbol]]) from the [[alphabet]]. 

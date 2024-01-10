@@ -1,0 +1,1 @@
+A *symbol* is an element of the [[alphabet]]. 

@@ -1,0 +1,1 @@
+*Image classification* labels images ([[image]]) and categorizes them. 
