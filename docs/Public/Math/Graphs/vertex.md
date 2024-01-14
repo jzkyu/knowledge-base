@@ -1,1 +1,1 @@
-A *vertex* is a point on a [[graph]]. 
+A *vertex* is a point on a [[knowledge-base/docs/Public/Math/Graphs/graph]]. 

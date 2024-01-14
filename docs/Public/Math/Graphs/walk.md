@@ -1,4 +1,4 @@
-A *walk* in a [[graph]] is a [[sequence]] of vertices ([[vertex]]) and edges ([[edge]]). [^1] 
+A *walk* in a [[knowledge-base/docs/Public/Math/Graphs/graph]] is a [[sequence]] of vertices ([[vertex]]) and edges ([[edge]]). [^1] 
 
 A *walk* is said to be open if the starting and ending vertices are different; closed if the starting and ending vertices are similar. 
 

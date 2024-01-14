@@ -1,4 +1,4 @@
-*See:* [[knowledge-base/docs/Public/Software/Tools/yabai cheat sheet]]
+*See:* [[yabai cheat sheet]]
 
 *yabai* is a window tiling manager. 
 

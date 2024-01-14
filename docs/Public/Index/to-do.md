@@ -1,1 +1,2 @@
 - [ ] Look into Obsidian Publish
+- [ ] Look into [Quartz](https://quartz.jzhao.xyz/)
