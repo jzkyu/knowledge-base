@@ -15,3 +15,6 @@ Balance windows:
 
 Start / stop / restart yabai:
 - `ctrl` + `alt` + `q/s/r`
+
+Rotate layout clockwise:
+- `shift` + `alt` + `r`

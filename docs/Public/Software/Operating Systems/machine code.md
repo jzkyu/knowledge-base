@@ -1,0 +1,1 @@
+*Machine code* is the elemental language of computers, consisting of binary numbers ([[binary]]), which is read by the [[processor]]. 
