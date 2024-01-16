@@ -1,0 +1,1 @@
+A *confusion matrix* is a table often used to evaluate the performance of a [[classification]] algorithm in [[machine learning]]. 
