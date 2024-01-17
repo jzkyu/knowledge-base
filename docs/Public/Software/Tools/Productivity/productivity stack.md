@@ -1,6 +1,9 @@
 time tracking:
 - [[TimeCamp]]
 
+web:
+- [[Arc]]
+
 planning:
 - organization: [[Notion]]
 - calendar: [[Google Calendar]]

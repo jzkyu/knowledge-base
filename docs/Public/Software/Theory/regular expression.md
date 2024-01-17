@@ -1,0 +1,1 @@
+A *regular expression* is a [[string]] encoding a "pattern" that matches some [[set]] of strings, used in many programming languages and applications such as `grep`. 

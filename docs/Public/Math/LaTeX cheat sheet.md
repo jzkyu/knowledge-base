@@ -49,3 +49,5 @@
 `\begin{figure}[h]`: Starts a figure 
 
 `\circ`: $\circ$
+
+`\Sigma`: $\Sigma$
