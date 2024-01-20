@@ -5,5 +5,9 @@
 
 `cmd` + `shift` + `c`: Copy the current page URL
 
+`cmd` + `t`: Command prompt (Enter 'edit keyboard shortcuts')
+
+`cmd` + `s`: Toggle sidebar
+
 Sources:
 - https://www.hongkiat.com/blog/arc-browser-keyboard-shortcuts/

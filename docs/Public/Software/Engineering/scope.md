@@ -1,0 +1,1 @@
+A *scope* is a "boundary": a defined set of requirements, conditions for a project. 

@@ -66,3 +66,6 @@ echo 1 | sudo tee /sys/class/leds/input2::scrolllock/brightness
 
 ```
 
+`tr`:
+- Text editor
+- Allow for replacing, deleting characters, character sets, newlines, etc.
