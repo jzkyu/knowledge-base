@@ -14,8 +14,10 @@
 
 `cmd` + `shift` + `j/k`:  Focus on tab group to the left / right
 
-`shift` + `del`: Delete current file
+`ctrl` + `del`: Delete current file
 ### Pane Relief
 
 `cmd` + `#`: Switch to tab `#`
+### Recent Files
 
+`cmd` + `r`: Open recent files panel

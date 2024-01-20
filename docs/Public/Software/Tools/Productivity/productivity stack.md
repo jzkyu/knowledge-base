@@ -10,12 +10,15 @@ planning:
 
 notes:
 - permanent: [[Obsidian]]
-- capture: [[Collanote]]
+- capture: [[Collanote]], [[Notion]] 
 
 navigation:
 - text: [[vim]]
 - windows: [[yabai]]
 
 editors:
-- code: [[VSCode]]
+- code: [[VSCode]], [[nvim]]
 - math: [[Overleaf]]
+
+hosting:
+- [[Quartz]] through Github Pages

@@ -7,6 +7,9 @@ Swap windows:
 Change focus between external displays:
 - `alt` + `s/g`
 
+Move window to different display:
+- `shift` + `alt` + `s/g`
+
 Maximize a window:
 - `shift` + `alt` + `m`
 
@@ -18,3 +21,5 @@ Start / stop / restart yabai:
 
 Rotate layout clockwise:
 - `shift` + `alt` + `r`
+
+TODO: Figure out how to swap windows between displays

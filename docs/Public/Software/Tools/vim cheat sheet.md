@@ -17,3 +17,8 @@
 `,` - repeat prev movement, backwards
 
 `zz` - center cursor on screen
+
+`u` - undo
+### Visual mode
+
+`b` - select everything in a block

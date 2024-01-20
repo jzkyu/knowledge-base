@@ -9,5 +9,7 @@
 
 `cmd` + `s`: Toggle sidebar
 
+`cmd` + `shift` + `d`: Toggle toolbar
+
 Sources:
 - https://www.hongkiat.com/blog/arc-browser-keyboard-shortcuts/
