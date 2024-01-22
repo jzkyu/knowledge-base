@@ -15,6 +15,9 @@
 `cmd` + `shift` + `j/k`:  Focus on tab group to the left / right
 
 `ctrl` + `del`: Delete current file
+
+`cmd` + `l`: Toggle checkbox
+
 ### Pane Relief
 
 `cmd` + `#`: Switch to tab `#`

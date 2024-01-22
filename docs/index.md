@@ -2,7 +2,7 @@ This is a work-in-progress, I am currently using a template from this [repo](htt
 ## About me
 - cs major @ uc davis '25, minoring in math
 - from socal, currently live in davis, ca
-- interested in automation / autonomy, machine learning / data science, systems design
+- interested in automation / autonomy, machine learning / data science, systems design, productivity
 - hobbies: speedcubing, rhythm games, dance, gym, tech, etc.
 ## Maps of Content
 - [[cheat sheets]]

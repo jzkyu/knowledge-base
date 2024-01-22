@@ -1,0 +1,1 @@
+`ctrl` + `J`: toggles terminal

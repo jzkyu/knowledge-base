@@ -1,0 +1,1 @@
+*Body stability* refers to the range of motion and stability around the joints ([[joint]]). 
