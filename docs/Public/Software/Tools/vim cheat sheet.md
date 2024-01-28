@@ -11,7 +11,7 @@
 
 `10j` - jump down 10 lines
 
-`fx` - jump to next occurrence of `x`
+`fx` - jump to next occurrence of `x` (including numbers)
 `Fx` - jump to prev occurrence of `x`
 `;` - repeat prev movement
 `,` - repeat prev movement, backwards
@@ -22,3 +22,5 @@
 ### Visual mode
 
 `b` - select everything in a block
+
+`vi"` - jumps to and highlights next instance of `"`

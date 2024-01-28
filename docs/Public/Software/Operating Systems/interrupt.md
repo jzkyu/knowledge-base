@@ -1,0 +1,1 @@
+An *interrupt* is a way for an external [[process]] to interrupt the normal flow of a [[CPU]]'s execution. 

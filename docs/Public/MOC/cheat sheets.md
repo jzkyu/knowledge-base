@@ -7,6 +7,7 @@ Tools:
 - [[Obsidian cheat sheet]]
 - [[MacOS cheat sheet]]
 - [[VSCode cheat sheet]]
+- [[GitHub cheat sheet]]
 - [[circuit cheat sheet]]
 
 Syntax:
