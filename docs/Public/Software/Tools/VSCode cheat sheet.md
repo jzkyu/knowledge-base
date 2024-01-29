@@ -4,3 +4,4 @@
 `ctrl` + `tab`: Cycle through the last set of files opened
 
 `shift` + `tab`: Indent highlighted text left
+

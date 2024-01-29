@@ -19,8 +19,11 @@
 `zz` - center cursor on screen
 
 `u` - undo
+
 ### Visual mode
 
 `b` - select everything in a block
 
 `vi"` - jumps to and highlights next instance of `"`
+
+`v/foo` - select from curr pos to next instance of `foo`

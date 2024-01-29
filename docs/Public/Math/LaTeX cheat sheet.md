@@ -51,3 +51,5 @@
 `\circ`: $\circ$
 
 `\Sigma`: $\Sigma$
+
+`\overline{ab}`: $\overline{ab}$
