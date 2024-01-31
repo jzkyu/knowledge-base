@@ -15,5 +15,7 @@
 
 `cmd` + `shift` + `d`: Toggle toolbar
 
+`cmd` + `opt` + 'v': Paste to new tab
+
 Sources:
 - [ ] https://www.hongkiat.com/blog/arc-browser-keyboard-shortcuts/
