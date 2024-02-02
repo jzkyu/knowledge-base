@@ -1,0 +1,1 @@
+The class of *regular languages* is the [[set]] of all languages ([[language]]) decided by some [[DFA]], [[NFA]], [[RRG]], or [[regular expression]]. 

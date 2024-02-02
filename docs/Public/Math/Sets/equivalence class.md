@@ -1,0 +1,1 @@
+Given a [[set]] and an [[equivalence relation]] defined on that set, an *equivalence class* is a [[subset]] of that set containing all the elements that are equivalent to each other under the given [[relation]]. 

@@ -1,5 +1,5 @@
 [site](https://vim.rtorr.com/)
-### Cursor movement
+### Motion
 
 `w` - jump forwards to start of word
 `e` - jump forwards to end of word
@@ -11,6 +11,8 @@
 
 `10j` - jump down 10 lines
 
+### Command
+
 `fx` - jump to next occurrence of `x` (including numbers)
 `Fx` - jump to prev occurrence of `x`
 `;` - repeat prev movement
@@ -19,8 +21,7 @@
 `zz` - center cursor on screen
 
 `u` - undo
-
-### Visual mode
+### Visual
 
 `b` - select everything in a block
 
