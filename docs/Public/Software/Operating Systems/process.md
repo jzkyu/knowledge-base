@@ -1,6 +1,7 @@
 A *process* is a program or [[command]] that is actually running on the computer. [^1]
-
 The [[operating system]] can run many different processes at the same time. [^1]
+
+![process.png](process.png)
 
 *Process* commands on the [[CLI]]:
 

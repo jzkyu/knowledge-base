@@ -1,0 +1,1 @@
+A *system call* is a request from the [[kernel]] to perform an operation on its behalf. 
