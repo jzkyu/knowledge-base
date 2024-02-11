@@ -7,3 +7,5 @@ Retrieve changes from remote repository, but does not automatically merge them i
 To undo a `git add .`: `git reset`
 
 Undo all changes back to last commit (lose uncommitted changes): `git reset --hard HEAD`
+
+Remove all untracked files: `git clean -f`
