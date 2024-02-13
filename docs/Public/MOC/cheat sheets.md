@@ -9,6 +9,7 @@ Tools:
 - [[VSCode cheat sheet]]
 - [[GitHub cheat sheet]]
 - [[circuit cheat sheet]]
+- [[Notion cheat sheet]]
 
 Syntax:
 - [[LaTeX cheat sheet]]

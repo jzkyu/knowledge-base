@@ -9,3 +9,5 @@ To undo a `git add .`: `git reset`
 Undo all changes back to last commit (lose uncommitted changes): `git reset --hard HEAD`
 
 Remove all untracked files: `git clean -f`
+
+View all branches: `git branch -a`

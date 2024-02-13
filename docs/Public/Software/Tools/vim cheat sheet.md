@@ -21,6 +21,9 @@
 `zz` - center cursor on screen
 
 `u` - undo
+
+`:%s/x/y/g`: Replace every instance of `x` with `y`
+
 ### Visual
 
 `b` - select everything in a block
@@ -28,3 +31,4 @@
 `vi"` - jumps to and highlights next instance of `"`
 
 `v/foo` - select from curr pos to next instance of `foo`
+

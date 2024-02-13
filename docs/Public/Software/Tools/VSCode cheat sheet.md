@@ -5,3 +5,4 @@
 
 `shift` + `tab`: Indent highlighted text left
 
+`cmd` + `/`: Comment out highlighted text
