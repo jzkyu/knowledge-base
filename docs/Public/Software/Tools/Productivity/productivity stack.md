@@ -22,3 +22,6 @@ editors:
 
 hosting:
 - [[Quartz]] through Github Pages
+
+other:
+- url shortener: https://t.ly/links

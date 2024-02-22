@@ -10,4 +10,4 @@ Undo all changes back to last commit (lose uncommitted changes): `git reset --ha
 
 Remove all untracked files: `git clean -f`
 
-View all branches: `git branch -a`
+Branches: `git branch [-ad] <name>`
