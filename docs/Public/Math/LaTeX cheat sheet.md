@@ -53,3 +53,5 @@
 `\Sigma`: $\Sigma$
 
 `\overline{ab}`: $\overline{ab}$
+
+`\infty`: $\infty$

@@ -1,5 +1,11 @@
 *Runtime* is the period of time while a program is running on a computer. 
 
+There are different ways to describe *runtime*:
+- [[Big-O notation]]
+- [[small-o notation]]
+- [[omega notation]]
+- [[small omega notation]]
+- 
 Common algorithmic runtimes from fastest to slowest are: [^1]
 - Constant: $O(1)$
 - Logarithmic: $O(log n)$
