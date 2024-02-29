@@ -17,5 +17,7 @@
 
 `cmd` + `opt` + 'v': Paste to new tab
 
+`/`: jump to search bar on Google
+
 Sources:
 - [ ] https://www.hongkiat.com/blog/arc-browser-keyboard-shortcuts/
