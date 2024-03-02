@@ -1,0 +1,1 @@
+An *optimization* problem is like [[search]], while also maximizing an objective function. 

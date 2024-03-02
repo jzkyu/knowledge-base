@@ -1,0 +1,1 @@
+A *search* problem finds a solution that satisfies a problem.

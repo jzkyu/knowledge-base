@@ -1,0 +1,1 @@
+A *decision* problem determines if there is any solution to a problem. 
