@@ -1,0 +1,1 @@
+A *Poisson distribution* is a [[discrete]] [[probability]] [[distribution]] that represents the number of events occurring in a fixed 

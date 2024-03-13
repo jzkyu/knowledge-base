@@ -9,7 +9,9 @@
 
 `cmd` + `shift` + `c`: Copy the current page URL
 
-`cmd` + `t`: Command prompt (Enter 'edit keyboard shortcuts')
+`cmd` + `t`: Command prompt
+- 'edit keyboard shortcuts'
+- 'capture full page'
 
 `cmd` + `s`: Toggle sidebar
 
