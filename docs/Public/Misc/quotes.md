@@ -2,6 +2,4 @@
 
 "You do some of the things, on some of the days" - u/imoblong
 
-"I was never addicted to gaming, I was addicted to the feeling of leveling up" - Luke Made It
-
-
+"You put one word after another until its done. It's that easy, and that hard." - Neil Gaiman

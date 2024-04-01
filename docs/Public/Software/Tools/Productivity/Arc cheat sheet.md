@@ -21,5 +21,7 @@
 
 `/`: jump to search bar on Google
 
+`i`: minimize / maximize video on Youtube
+
 Sources:
 - [ ] https://www.hongkiat.com/blog/arc-browser-keyboard-shortcuts/

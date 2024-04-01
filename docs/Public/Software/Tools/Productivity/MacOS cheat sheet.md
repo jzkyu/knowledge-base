@@ -2,4 +2,6 @@
 
 `opt` + `del`: Delete previous word
 
-`shift` + `cmd` + q`: Quit all applications
+`shift` + `cmd` + q`:` Quit all applications
+
+`cmd` + `shift` + `g`: Search for path in Finder
