@@ -1,0 +1,1 @@
+*Feature engineering* transforms [[raw data]] into a more effective, useful set of inputs that a model i.e. [[machine learning]] can use. 
