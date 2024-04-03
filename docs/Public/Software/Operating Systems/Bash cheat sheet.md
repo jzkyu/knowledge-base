@@ -110,3 +110,8 @@ fi
 - `$?` stores the exit code for the last command
 
 [^1]: https://www.cyberciti.biz/faq/grep-in-bash/
+
+```shell
+p10k configure
+```
+- Configure `powerlevel10k` looks
