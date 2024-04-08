@@ -24,6 +24,7 @@
 
 `:%s/x/y/g`: Replace every instance of `x` with `y`
 
+`:wq`: Exit and save
 ### Visual
 
 `b` - select everything in a block

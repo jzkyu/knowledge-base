@@ -11,6 +11,7 @@ Tools:
 - [[circuit cheat sheet]]
 - [[Notion cheat sheet]]
 - [[Google Sheets cheat sheet]]
+- [[Homebrew cheat sheet]]
 
 Syntax:
 - [[LaTeX cheat sheet]]

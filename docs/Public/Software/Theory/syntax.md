@@ -1,0 +1,1 @@
+In a [[programming language]], the *syntax* defines how programs look: their form and structure.

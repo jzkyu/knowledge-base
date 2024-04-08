@@ -1,0 +1,1 @@
+In a [[programming language]], the *semantics* defines what programs do: their behavior and meaning. 

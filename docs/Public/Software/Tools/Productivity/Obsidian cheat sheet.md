@@ -21,6 +21,9 @@
 ### Pane Relief
 
 `cmd` + `#`: Switch to tab `#`
+
+`ctrl` + `tab`: Switch to next tab
+
 ### Recent Files
 
 `cmd` + `r`: Open recent files panel

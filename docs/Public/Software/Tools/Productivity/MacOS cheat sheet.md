@@ -7,3 +7,4 @@
 `cmd` + `shift` + `g`: Search for path in Finder
 
 `cmd` + `m`: Minimize window
+
