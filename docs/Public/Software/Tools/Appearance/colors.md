@@ -17,5 +17,7 @@ jzky colorway:
 	- Light Cyan: 35ceb3
 - Accent: af9a91
 	- Light Accent: e1c6bb
+- Black 0c0a0a
+	- Light Black: 241e1e
 
 

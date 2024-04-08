@@ -1,4 +1,5 @@
 A *subset* is a [[set]] which all the elements are contained in another set. 
+Another way, "Every element in $A$ is in $B$".
 
 $A$ is a *subset* of $B$ means:
 $$
@@ -6,5 +7,5 @@ $$
 $$
 We write:
 $$
-a\subseteq B
+A\subseteq B
 $$
