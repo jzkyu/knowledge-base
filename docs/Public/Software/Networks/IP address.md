@@ -1,0 +1,1 @@
+An *IP address* (Internet Protocol address) is an [[address]] primarily used to identify a device connected on a [[network]] using the Internet Protocol. 

@@ -1,0 +1,1 @@
+An *address* is a way to identify where some [[hardware]] or [[software]] is located. 

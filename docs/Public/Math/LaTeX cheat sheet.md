@@ -49,9 +49,10 @@
 `\begin{figure}[h]`: Starts a figure 
 
 `\circ`: $\circ$
-
 `\Sigma`: $\Sigma$
 
 `\overline{ab}`: $\overline{ab}$
 
 `\infty`: $\infty$
+
+`\sqrt{}`: $\sqrt{}$
