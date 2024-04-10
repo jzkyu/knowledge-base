@@ -12,6 +12,7 @@ Tools:
 - [[Notion cheat sheet]]
 - [[Google Sheets cheat sheet]]
 - [[Homebrew cheat sheet]]
+- [[tmux cheat sheet]]
 
 Syntax:
 - [[LaTeX cheat sheet]]

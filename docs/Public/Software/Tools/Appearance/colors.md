@@ -20,4 +20,5 @@ jzky colorway:
 - Black 0c0a0a
 	- Light Black: 241e1e
 
-
+purples:
+- 9376eb

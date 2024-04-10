@@ -11,6 +11,7 @@
 
 `10j` - jump down 10 lines
 
+`{ / }` - jump to prev / next paragraph
 ### Command
 
 `fx` - jump to next occurrence of `x` (including numbers)
