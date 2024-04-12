@@ -34,3 +34,10 @@
 
 `v/foo` - select from curr pos to next instance of `foo`
 
+### Exiting
+
+`:w` - write file (save)
+
+`:q` - quit (must save changes first)
+
+``
