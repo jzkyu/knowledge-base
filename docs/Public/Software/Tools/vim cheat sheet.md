@@ -39,5 +39,4 @@
 `:w` - write file (save)
 
 `:q` - quit (must save changes first)
-
-``
+`:q!` - quit without saving

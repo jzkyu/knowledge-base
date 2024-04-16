@@ -55,4 +55,8 @@
 
 `\infty`: $\infty$
 
-`\sqrt{}`: $\sqrt{}$
+`\sqrt[x]{}`: $\sqrt[x]{}$
+
+`\displaystyle`: Make math expressions large
+
+`\approx`: $\approx$

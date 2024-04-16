@@ -1,5 +1,7 @@
 `cmd` + `o`: Quick switcher
 
+`cmd` + `shift` + `f`: Search in all files
+
 `cmd` + `left_arrow / right_arrow`: Toggle left / right sidebar
 
 `opt` + `cmd` + `[ / ]`: Navigate backwards / forwards

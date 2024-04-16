@@ -3,5 +3,5 @@
 *Bias* indicates the training error. 
 
 $$
-Bias^2 = E[(E[(g(x)-f(x))^2])]
+Bias^2 = E[(E[g(x)]-f(x))^2]
 $$

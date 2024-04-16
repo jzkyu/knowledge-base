@@ -3,3 +3,5 @@
 The linear relationship is represented by the equation of a line: $y=mx+b$. 
 
 The goal of *linear regression* is to find values of $m$ and $b$ that minimizes the difference between the predicted values and the actual values. 
+
+The actual value ($y$) differs from the predicted value ($\hat y$) by a random amount $\epsilon$: $y = \hat y + \epsilon$
