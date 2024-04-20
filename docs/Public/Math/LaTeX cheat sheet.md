@@ -60,3 +60,5 @@
 `\displaystyle`: Make math expressions large
 
 `\approx`: $\approx$
+
+`n \choose x`: $n \choose x$
