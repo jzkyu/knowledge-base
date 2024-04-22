@@ -62,3 +62,20 @@
 `\approx`: $\approx$
 
 `n \choose x`: $n \choose x$
+
+Inserting an image:
+
+```
+\documentclass{article}
+\usepackage{graphicx}
+\graphicspath{ {./images/} }
+
+\begin{document}
+The universe is immense and it seems to be homogeneous, 
+in a large scale, everywhere we look at.
+
+\includegraphics{universe}
+
+There's a picture of a galaxy above
+\end{document}
+```
