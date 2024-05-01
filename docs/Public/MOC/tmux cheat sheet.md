@@ -1,6 +1,6 @@
 https://tmuxcheatsheet.com/
 
-`ctrl` + `b`: "tmux mode"
+`ctrl` + `w`: "tmux mode"
 
 ### In "tmux mode":
 

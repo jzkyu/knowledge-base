@@ -5,10 +5,12 @@ Obsidian Dark Purple: https://www.color-hex.com/color-palette/48785
 jzky colorway:
 - Red: d83825
 	- Light Red: f93f29
+	- Dark Red: c52300
 - Green: 2da590
 	- Light Green: 35ceb3
 - Yellow: fdac5b
 	- Light Yellow: f4bc83
+	- Light Yellow Text: e1c6bb
 - Blue: 473ca7
 	- Light Blue: 6857fa
 - Magenta: 5d53cf
@@ -22,3 +24,6 @@ jzky colorway:
 
 purples:
 - 9376eb
+
+other:
+- 1e1e1e

@@ -8,3 +8,8 @@
 
 `cmd` + `m`: Minimize window
 
+`ctrl` + `left_arrow / right_arrow`: Switch desktops
+
+`cmd + left_arrow / right_arrow`: Select everything to left / right of cursor
+
+``
