@@ -10,7 +10,7 @@ Tools:
 - [[GitHub cheat sheet]]
 - [[circuit cheat sheet]]
 - [[Notion cheat sheet]]
-- [[Google Sheets cheat sheet]]
+- [[Google cheat sheet]]
 - [[Homebrew cheat sheet]]
 - [[tmux cheat sheet]]
 
