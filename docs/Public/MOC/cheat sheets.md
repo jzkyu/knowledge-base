@@ -8,7 +8,6 @@ Tools:
 - [[MacOS cheat sheet]]
 - [[VSCode cheat sheet]]
 - [[GitHub cheat sheet]]
-- [[circuit cheat sheet]]
 - [[Notion cheat sheet]]
 - [[Google cheat sheet]]
 - [[Homebrew cheat sheet]]
@@ -21,3 +20,7 @@ Syntax:
 - [[Bash cheat sheet]]
 - [[SSH cheat sheet]]
 - [[Markdown cheat sheet]]
+
+Other: 
+- [[circuit cheat sheet]]
+- [[GMK67 cheat sheet]]
