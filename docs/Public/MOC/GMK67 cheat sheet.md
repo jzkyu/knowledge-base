@@ -1,4 +1,4 @@
-`fn` + `up_arrow / down_arrow`: Adjust brightness
+`klakj kkkn` + `up_arrow / down_arrow`: Adjust brightness
 
 `fn` + `[ / ]`: Adjust speed
 
