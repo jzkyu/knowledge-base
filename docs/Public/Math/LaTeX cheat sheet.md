@@ -23,7 +23,7 @@
 `\emptyset`: $\emptyset$
 
 `\begin{enumerate}`: Creates a numerated list
-
+	
 ![[enumerate.png]]
 
 `\exists`: $\exists$
@@ -79,3 +79,7 @@ in a large scale, everywhere we look at.
 There's a picture of a galaxy above
 \end{document}
 ```
+
+`/times`: $/times$
+
+`/label{}` / `/ref{}`: To label, then reference that label's value

@@ -12,4 +12,4 @@
 
 `cmd + left_arrow / right_arrow`: Select everything to left / right of cursor
 
-``
+`opt` + `shift` + `-`: Creates an em dash
