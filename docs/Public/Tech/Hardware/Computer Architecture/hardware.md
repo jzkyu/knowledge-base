@@ -1,0 +1,1 @@
+*Hardware* is the physical components of a [[computer]]. 

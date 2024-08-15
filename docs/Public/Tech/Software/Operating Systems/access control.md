@@ -1,0 +1,1 @@
+*Access control* is a security mechanism that regulates privileges on resources on an [[operating system]]. It ensures security, allowing only authorized users can perform certain actions on certain resources, such as files, databases, applications, or networks. 

@@ -5,7 +5,7 @@ Bias^2 + Variance + Ireeducible Error
 $$
 where $Bias^2$ is
 
-![bias](bias)
+![bias](bias.md)
 
 and $Variance$ is
 
