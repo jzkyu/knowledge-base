@@ -9,6 +9,7 @@ planning:
 notes:
 - permanent: [[Obsidian]]
 - capture: [[Collanote]], [[Notion]] 
+- spaced repetition: [[Anki]]
 
 navigation:
 - text: [[vim]]

@@ -1,0 +1,1 @@
+A *stylesheet language* is a [[programming language]] that controls how structured documents are presented. It allows content and design to be separate, and then that content can be reused and presented in many different ways. 
