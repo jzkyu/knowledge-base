@@ -6,6 +6,9 @@ planning:
 - prototyping: [[Figma]], [[Excalidraw]]
 - calendar: [[Google Calendar]]
 
+finance:
+- budgetting: [[YNAB]]
+
 notes:
 - permanent: [[Obsidian]]
 - capture: [[Collanote]], [[Notion]] 
