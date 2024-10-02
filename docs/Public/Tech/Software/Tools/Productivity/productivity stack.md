@@ -5,8 +5,7 @@ planning:
 - organization: [[Notion]]
 - prototyping: [[Figma]], [[Excalidraw]]
 - calendar: [[Google Calendar]]
-
-finance:
+- backpacking: [[Lighterpack]]
 - budgetting: [[YNAB]]
 
 notes:
