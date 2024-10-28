@@ -1,0 +1,1 @@
+A *core* is a [[processor]] unit, that reads and executes ordinary [[CPU]] instructions ([[instruction]]).
