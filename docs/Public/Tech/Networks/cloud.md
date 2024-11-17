@@ -1,0 +1,1 @@
+*Cloud* is a term to organize a set of servers ([[server]]) and their services. 

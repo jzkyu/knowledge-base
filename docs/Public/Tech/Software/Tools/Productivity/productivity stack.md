@@ -1,10 +1,14 @@
+linktr.ee/jzkyu
+
 web:
-- [[Arc]]
+- browser: [[Arc]]
 
 planning:
 - organization: [[Notion]]
 - prototyping: [[Figma]], [[Excalidraw]]
 - calendar: [[Google Calendar]]
+- backpacking: [[Lighterpack]]
+- budgetting: [[YNAB]]
 
 notes:
 - permanent: [[Obsidian]]
@@ -17,7 +21,14 @@ navigation:
 
 editors:
 - code: [[VSCode]], [[nvim]]
-- math: [[Overleaf]]
+- papers: [[Overleaf]]
+- images: paint.net
+- video: DaVinci Resolve
+
+streaming:
+- capture: [[OBS]]
+- phone: IVCam
+- overlay: Streamlabs
 
 hosting:
 - [[Quartz]] through Github Pages

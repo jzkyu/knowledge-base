@@ -1,0 +1,1 @@
+A *server* is a dedicated [[computer]] that provides services to clients. Services could be loading a website, accessing [[data]], or fetching emails - which can all be on the same machine. 
