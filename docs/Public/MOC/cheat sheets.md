@@ -12,6 +12,7 @@ Tools:
 - [[Google cheat sheet]]
 - [[Homebrew cheat sheet]]
 - [[tmux cheat sheet]]
+- [[Windows cheat sheet]]
 
 Syntax:
 - [[LaTeX cheat sheet]]
