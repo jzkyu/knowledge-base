@@ -8,11 +8,11 @@
 
 `cmd` + `e`: Toggle reading view
 
-`cmd` + `shift` + `d`: Reveal current file in navigation
+`ctrl` + `alt` + `d`: Reveal current file in navigation
 
 `cmd` + `shift` + `s`: Show file explorer
 
-`cmd` + `shift` + `j/k`:  Focus on tab group to the left / right
+`ctrl` + `alt` + `j/k`:  Focus on tab group to the left / right
 
 `ctrl` + `del`: Delete current file
 
@@ -27,3 +27,7 @@
 ### Recent Files
 
 `cmd` + `r`: Open recent files panel
+
+### Footnotes
+
+`ctrl` + `alt` + `i`: Toggle footnote

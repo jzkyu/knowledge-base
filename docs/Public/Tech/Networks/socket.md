@@ -1,0 +1,1 @@
+A *socket* is a communication endpoint that allows programs to send and receive data over a [[network]] or locally - it's a [[port]] of an [[IP address]]. 

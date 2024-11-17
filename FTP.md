@@ -1,0 +1,1 @@
+*FTP*, or *File Transfer Protocol*, is a [[protocol]] that allows computers to communicate and exchanges files over a [[network]], specifically IP/[[TCP]] connections. 
