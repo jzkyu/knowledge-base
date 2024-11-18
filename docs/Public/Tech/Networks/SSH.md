@@ -7,7 +7,7 @@ Basic commands:
 ssh <user>@pc<#>.cs.ucdavis.edu
 ```
 
-You can run a [[command]] on remote machines and [[pipe]] the result:
+You can run a [[command]] on remote machines and [[pipe (command)]] the result:
 ```bash
 ssh noah@pc17.cs.ucdavis.edu ls | grep Downloads
 ```

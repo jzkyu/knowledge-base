@@ -1,0 +1,1 @@
+A *pipe* is a [[buffer]] for transferring [[data]] between one [[process]] and another process - used in [[IPC]]. 
