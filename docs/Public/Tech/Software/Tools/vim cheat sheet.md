@@ -34,6 +34,7 @@
 
 `v/foo` - select from curr pos to next instance of `foo`
 
+`V` - select whole line
 ### Exiting
 
 `:w` - write file (save)

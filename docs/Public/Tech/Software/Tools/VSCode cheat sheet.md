@@ -10,3 +10,5 @@
 `shift` + `cmd` + `e`: Open explorer pane
 
 `cmd` + `shift` + `p`: Command Palette
+
+`shift` + `alt` + `f`: Format current file
