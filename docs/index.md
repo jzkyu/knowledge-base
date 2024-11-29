@@ -7,5 +7,4 @@ This is a work-in-progress, I am currently using a template from this [repo](htt
 ## Maps of Content
 - [[cheat sheets]]
 ### Note-Taking Philosophy
-
 [[note-taking workflow]]
