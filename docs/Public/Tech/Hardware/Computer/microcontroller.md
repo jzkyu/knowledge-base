@@ -1,0 +1,1 @@
+A *microcontroller* is a small [[computer]] on a single [[integrated circuit]]. 
