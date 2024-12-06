@@ -12,3 +12,5 @@ Undo all changes back to last commit (lose uncommitted changes): `git reset --ha
 Remove all untracked files: `git clean -f`
 
 Branches: `git branch [-ad] <name>`
+
+Don't have all branches? `git fetch --all

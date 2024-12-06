@@ -1,0 +1,1 @@
+A *package manager* is [[software]] that automates the process of installing, upgrading, configuring, and removing other software on a computer in a consistent manner. 
