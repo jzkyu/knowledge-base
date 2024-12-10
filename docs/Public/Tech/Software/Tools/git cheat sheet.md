@@ -14,3 +14,5 @@ Remove all untracked files: `git clean -f`
 Branches: `git branch [-ad] <name>`
 
 Don't have all branches? `git fetch --all
+
+Show changelog: `git log --oneline --decorate --color --graph`
