@@ -1,0 +1,1 @@
+A *brokerage* acts as a middle-man to facilitate transactions between buyers and sellers. For buying stocks, bonds, properties, and so on. 

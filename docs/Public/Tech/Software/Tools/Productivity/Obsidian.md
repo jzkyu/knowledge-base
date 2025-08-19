@@ -7,4 +7,4 @@ plugins I use:
 - obsidian://show-plugin?id=obsidian-footnotes
 
 theme:
-- 
+- cappucino?
